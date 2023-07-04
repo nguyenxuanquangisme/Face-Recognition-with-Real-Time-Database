@@ -1,4 +1,4 @@
-![Ảnh màn hình 2023-07-04 lúc 21 28 39](https://github.com/nguyenxuanquang248/Face-Recognition-with-Real-Time-Database/assets/93467606/d7fca16b-52a6-44c1-9733-045160cdba72)Nguyen Xuan Quang - bassso4isme
+Nguyen Xuan Quang - bassso4isme
 
 # Face-Recognition-with-Real-Time-Database
 Face Recognition with Real Time Database 
